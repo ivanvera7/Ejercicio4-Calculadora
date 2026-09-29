@@ -90,6 +90,6 @@ Ejercicio4-Calculadora/
 
 <div align="center">
 
-📚 Ejercicio de práctica de Java · Hecho con ☕ por [ivan99vera1-wq](https://github.com/ivan99vera1-wq)
+📚 Ejercicio de práctica de Java · Hecho con ☕ por [ivanvera7](https://github.com/ivanvera7)
 
 </div>
