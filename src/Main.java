@@ -13,7 +13,6 @@ public class Main {
         System.out.println("Numero1: " + numero1);
         System.out.println("Numero2: " + numero2);
         System.out.println("·························");
-        System.out.println("Resta: " + resta);
         System.out.println("Suma: " + suma);
         System.out.println("Resta: " + resta);
         System.out.println("Multiplicación: " + multiplicacion);
